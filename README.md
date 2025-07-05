@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Yumna, and ii'm an undergraduate  interested in all things related to AI & DataScience!
+My name is Yumna, and I'm an undergraduate  interested in all things related to AI & DataScience!
 
 - 🔭 I’m currently working on buliding a classification model related to sentiment analysis
 - 🌱 I’m currently learning how to build AI agents
