@@ -2,8 +2,8 @@
 
 My name is Yumna, and I'm an undergraduate  interested in all things related to AI & DataScience!
 
-- 🔭 I’m currently working on buliding a convolutional model
-- 🌱 I’m currently learning how to build AI agents
+- 🔭 I’m currently working on buliding an AI Agent
+- 🌱 I’m currently learning how to bulid Machine Learning models of different algorithms
 
 <!--
 **YumnaZai/YumnaZai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
